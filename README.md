@@ -1,5 +1,3 @@
-Let's enhance the README by including the details of specific files such as `CartContainer.js`, `cartSlice.js`, `cartItems.js`, and `modal.js` to clearly showcase the functionality and your contribution to the project:
-
 # 🛠 Redux Toolkit Essentials
 
 ## Introduction
